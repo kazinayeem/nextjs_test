@@ -2,9 +2,10 @@ import React from "react";
 
 const Button = ({ title }) => {
   return (
-    <div>
+    <div >
       Button
       <button
+        className="btn btn-danger"
         onClick={() => {
           localStorage.setItem("auth", true);
         }}
