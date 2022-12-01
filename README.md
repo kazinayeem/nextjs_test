@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Live link https://nextjs-test-w9yf-cvv676s3h-kazinayeem55085-gmailcom.vercel.app/
+
 First, run the development server:
 
 ```bash
